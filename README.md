@@ -1,1 +1,1 @@
-# video-editing-guide
+# Editor Guide by - NETMIKO.COM
